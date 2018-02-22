@@ -1,0 +1,10 @@
+G:\Projects\MainProjects\Unity\HexMap\DataServer\bin\Debug\netcoreapp2.0\DataServer.deps.json
+G:\Projects\MainProjects\Unity\HexMap\DataServer\bin\Debug\netcoreapp2.0\DataServer.runtimeconfig.json
+G:\Projects\MainProjects\Unity\HexMap\DataServer\bin\Debug\netcoreapp2.0\DataServer.runtimeconfig.dev.json
+G:\Projects\MainProjects\Unity\HexMap\DataServer\bin\Debug\netcoreapp2.0\DataServer.dll
+G:\Projects\MainProjects\Unity\HexMap\DataServer\bin\Debug\netcoreapp2.0\DataServer.pdb
+G:\Projects\MainProjects\Unity\HexMap\DataServer\obj\Debug\netcoreapp2.0\DataServer.csproj.CoreCompileInputs.cache
+G:\Projects\MainProjects\Unity\HexMap\DataServer\obj\Debug\netcoreapp2.0\DataServer.AssemblyInfoInputs.cache
+G:\Projects\MainProjects\Unity\HexMap\DataServer\obj\Debug\netcoreapp2.0\DataServer.AssemblyInfo.cs
+G:\Projects\MainProjects\Unity\HexMap\DataServer\obj\Debug\netcoreapp2.0\DataServer.dll
+G:\Projects\MainProjects\Unity\HexMap\DataServer\obj\Debug\netcoreapp2.0\DataServer.pdb
